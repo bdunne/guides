@@ -30,7 +30,7 @@
   * [Emails](https://github.com/settings/emails): Enter your e-mail address and verify it, click the Verify button and follow the instructions.
   * [Notification Center](https://github.com/settings/notifications) / Notification Email / Custom Routing: Change the email address associated with ManageIQ if desired.
 * Forking ManageIQ/manageiq:
-  * Go to [ManageIQ/mangeiq](https://github.com/ManageIQ/manageiq)
+  * Go to [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq)
   * Click the Fork button and choose "Fork to \<yourname\>"
 
 * Git configuration and default settings.
